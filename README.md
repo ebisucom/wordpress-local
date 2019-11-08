@@ -1,5 +1,8 @@
 # 『WordPressローカル環境 構築ガイド』
 
+![WordPressローカル環境 構築ガイド](https://repository-images.githubusercontent.com/212761031/f0027e80-0261-11ea-8fce-f1b77340a229)
+
+
 ## ■ 収録内容
 
 ### wordpress-local.pdf
